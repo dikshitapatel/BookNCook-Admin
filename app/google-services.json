@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "844408679850",
+    "firebase_url": "https://androidbookncook.firebaseio.com",
+    "project_id": "androidbookncook",
+    "storage_bucket": "androidbookncook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844408679850:android:46af1030b10363c0",
+        "android_client_info": {
+          "package_name": "com.example.atul_.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844408679850-rtp6c9m88g92hi1q78rtnm7qandt6cnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atul_.eatit",
+            "certificate_hash": "282682b94415a398a34885afdb776864d5c63f2b"
+          }
+        },
+        {
+          "client_id": "844408679850-cqu146osjqm81st9o8h9kocq9cis3d2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atul_.eatit",
+            "certificate_hash": "56802bef5e69759625fccda06e29c746e876dc47"
+          }
+        },
+        {
+          "client_id": "844408679850-8jsuukudst6dpsoebjmpcfep69351lj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyUckvU8c2UqNeJDKn85nFkc58FYLyps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844408679850-8jsuukudst6dpsoebjmpcfep69351lj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844408679850:android:83c7ad6e4ff07976",
+        "android_client_info": {
+          "package_name": "com.abcd.bncserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844408679850-8jsuukudst6dpsoebjmpcfep69351lj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASyUckvU8c2UqNeJDKn85nFkc58FYLyps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

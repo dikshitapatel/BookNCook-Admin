@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Admin.iml" filepath="$PROJECT_DIR$/Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Admin2-master.iml" filepath="$PROJECT_DIR$/Admin2-master.iml" group="Admin2-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/Admin2-master-app.iml" filepath="$PROJECT_DIR$/app/Admin2-master-app.iml" group="Admin2-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/BnCAdmin.iml" filepath="$PROJECT_DIR$/BnCAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BnCServer.iml" filepath="$PROJECT_DIR$/BnCServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

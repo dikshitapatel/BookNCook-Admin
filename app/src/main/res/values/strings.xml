@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="slogan">BOOK n COOK</string>
+    <string name="signin">SignIn</string>
+    <string name="password">Password</string>
+    <string name="_1234">1234</string>
+    <string name="_12345">1234</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign">SignIn</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
